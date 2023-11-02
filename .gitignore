@@ -1,0 +1,7 @@
+data/outputs/*
+data/raw/*
+data/requests/*
+data/staging/*
+
+tmproxfzyrs/history/*
+tmproxfzyrs/schedules/*
